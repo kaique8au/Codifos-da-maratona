@@ -1,0 +1,1 @@
+{"name":"Local: aa","url":"c:\\codigos\\Maratona\\10Dia-PD\\aa.cpp","tests":[{"id":1785441527601,"input":"8\n7 3 5 3 6 2 9 8\n","output":"4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codigos\\Maratona\\10Dia-PD\\aa.cpp","group":"local","local":true}

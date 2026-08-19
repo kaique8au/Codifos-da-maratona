@@ -1,0 +1,1 @@
+{"name":"Local: g","url":"c:\\codigos\\Maratona\\3Dia-ed2\\g.cpp","tests":[{"id":1784226333574,"input":"dog ogday\ncat atcay\npig igpay\nfroot ootfray\nloops oopslay\n\natcay\nittenkay\noopslay","output":"cat\neh\nloops"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codigos\\Maratona\\3Dia-ed2\\g.cpp","group":"local","local":true}

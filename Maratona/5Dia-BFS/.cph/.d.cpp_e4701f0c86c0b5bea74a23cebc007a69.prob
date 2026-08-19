@@ -1,0 +1,1 @@
+{"name":"Local: d","url":"c:\\codigos\\Maratona\\5Dia-BFS\\d.cpp","tests":[{"id":1784568018393,"input":"3\nJV PT\nKA PT\nKA HP\nJV HP\n2\nJV PT\nKA HP\nJV HP","output":"JV PT\nPT KA\nKA HP\n\nNo route"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codigos\\Maratona\\5Dia-BFS\\d.cpp","group":"local","local":true}
